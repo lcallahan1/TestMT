@@ -215,7 +215,6 @@ void levelMenu(string name, int mathType)
 		quiz(mathType, levels[0]);
 		break;
 
-
 	}
 }
 
@@ -390,7 +389,6 @@ string crappyResponse()
 	response = responses[index];
 
 	return response;
-
 }
 /*
 //array for level score keeping
